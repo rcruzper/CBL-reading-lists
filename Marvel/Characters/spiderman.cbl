@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList>
+  <Name>[Marvel] Spider-Man</Name>
   <Books>
     <Book Series="The Amazing Spider-Man" Number="1" Volume="2022" Year="2022">
       <Database IssueId="919313" VolumeId="142577" StoreDate="2022-04-27"/>

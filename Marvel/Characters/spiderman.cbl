@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList>
-  <Name>[Marvel] Spider-Man</Name>
   <Books>
     <Book Series="The Amazing Spider-Man" Number="1" Volume="2022" Year="2022">
       <Database IssueId="919313" VolumeId="142577" StoreDate="2022-04-27"/>
@@ -77,6 +76,9 @@
     <Book Series="Spider-Man" Number="3" Volume="2022" Year="2022">
       <Database IssueId="958989" VolumeId="145364" StoreDate="2022-12-07"/>
     </Book>
+    <Book Series="Dark Web" Number="1" Volume="2022" Year="2022">
+      <Database IssueId="959000" VolumeId="146735" StoreDate="2022-12-07"/>
+    </Book>
     <Book Series="The Amazing Spider-Man" Number="15" Volume="2022" Year="2022">
       <Database IssueId="960003" VolumeId="142577" StoreDate="2022-12-14"/>
     </Book>
@@ -103,6 +105,9 @@
     </Book>
     <Book Series="The Amazing Spider-Man" Number="18" Volume="2022" Year="2023">
       <Database IssueId="966421" VolumeId="142577" StoreDate="2023-01-25"/>
+    </Book>
+    <Book Series="Dark Web: Finale" Number="1" Volume="2023" Year="2023">
+      <Database IssueId="967787" VolumeId="147905" StoreDate="2023-02-01"/>
     </Book>
     <Book Series="The Amazing Spider-Man" Number="19" Volume="2022" Year="2023">
       <Database IssueId="969383" VolumeId="142577" StoreDate="2023-02-08"/>
@@ -527,6 +532,9 @@
     <Book Series="Spider-Man &amp; Wolverine" Number="10" Volume="2025" Year="2026">
       <Database IssueId="1156973" VolumeId="164456" StoreDate="2026-02-25"/>
     </Book>
+    <Book Series="Amazing Spider-Man/Venom: Death Spiral" Number="1" Volume="2026" Year="2026">
+      <Database IssueId="1156915" VolumeId="170659" StoreDate="2026-02-25"/>
+    </Book>
     <Book Series="The Amazing Spider-Man" Number="23" Volume="2025" Year="2026">
       <Database IssueId="1158149" VolumeId="163325" StoreDate="2026-03-04"/>
     </Book>
@@ -544,6 +552,9 @@
     </Book>
     <Book Series="The Amazing Spider-Man" Number="28" Volume="2025" Year="2026">
       <Database IssueId="1165107" VolumeId="163325" StoreDate="2026-05-06"/>
+    </Book>
+    <Book Series="Amazing Spider-Man/Venom: Death Spiral - Body Count" Number="1" Volume="2026" Year="2026">
+      <Database IssueId="1166381" VolumeId="171911" StoreDate="2026-05-13"/>
     </Book>
     <Book Series="The Amazing Spider-Man" Number="29" Volume="2025" Year="2026">
       <Database IssueId="1167132" VolumeId="163325"/>

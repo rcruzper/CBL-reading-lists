@@ -586,14 +586,14 @@
     <Book Series="Venom" Number="258" Volume="2025" Year="2026">
       <Database IssueId="1167203" VolumeId="167333" StoreDate="2026-05-20"/>
     </Book>
+    <Book Series="The Amazing Spider-Man" Number="29" Volume="2025" Year="2026">
+      <Database IssueId="1167132" VolumeId="163325"/>
+    </Book>
     <Book Series="The Amazing Spider-Man" Number="30" Volume="2025" Year="2026">
       <Database IssueId="1169581" VolumeId="163325" StoreDate="2026-06-03"/>
     </Book>
     <Book Series="The Amazing Spider-Man" Number="31" Volume="2025" Year="2026">
       <Database IssueId="1171929" VolumeId="163325" StoreDate="2026-06-17"/>
-    </Book>
-    <Book Series="The Amazing Spider-Man" Number="29" Volume="2025" Year="2026">
-      <Database IssueId="1167132" VolumeId="163325"/>
     </Book>
     <Book Series="Amazing Spider-Man: Spider-Versity" Number="2" Volume="2026" Year="2026">
       <Database IssueId="1168225" VolumeId="171579"/>

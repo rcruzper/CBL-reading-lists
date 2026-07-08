@@ -244,6 +244,9 @@
     <Book Series="The Amazing Spider-Man" Number="42" Volume="2022" Year="2024">
       <Database IssueId="1040933" VolumeId="142577" StoreDate="2024-01-17"/>
     </Book>
+    <Book Series="Jackpot" Number="1" Volume="2024" Year="2024">
+      <Database IssueId="1040942" VolumeId="156140" StoreDate="2024-01-17"/>
+    </Book>
     <Book Series="Spine-Tingling Spider-Man" Number="4" Volume="2023" Year="2024">
       <Database IssueId="1042835" VolumeId="153485" StoreDate="2024-01-31"/>
     </Book>
@@ -262,6 +265,9 @@
     <Book Series="The Amazing Spider-Man" Number="46" Volume="2022" Year="2024">
       <Database IssueId="1049269" VolumeId="142577" StoreDate="2024-03-27"/>
     </Book>
+    <Book Series="Jackpot &amp; Black Cat" Number="1" Volume="2024" Year="2024">
+      <Database IssueId="1049275" VolumeId="157398" StoreDate="2024-03-27"/>
+    </Book>
     <Book Series="Spider-Man: Shadow of the Green Goblin" Number="1" Volume="2024" Year="2024">
       <Database IssueId="1050575" VolumeId="157509" StoreDate="2024-04-03"/>
     </Book>
@@ -273,6 +279,9 @@
     </Book>
     <Book Series="The Amazing Spider-Man" Number="48" Volume="2022" Year="2024">
       <Database IssueId="1052551" VolumeId="142577" StoreDate="2024-04-24"/>
+    </Book>
+    <Book Series="Jackpot &amp; Black Cat" Number="2" Volume="2024" Year="2024">
+      <Database IssueId="1052934" VolumeId="157398" StoreDate="2024-04-24"/>
     </Book>
     <Book Series="The Amazing Spider-Man" Number="49" Volume="2022" Year="2024">
       <Database IssueId="1054369" VolumeId="142577" StoreDate="2024-05-08"/>
@@ -289,6 +298,9 @@
     <Book Series="The Spectacular Spider-Men" Number="3" Volume="2024" Year="2024">
       <Database IssueId="1056209" VolumeId="157126" StoreDate="2024-05-22"/>
     </Book>
+    <Book Series="Jackpot &amp; Black Cat" Number="3" Volume="2024" Year="2024">
+      <Database IssueId="1057005" VolumeId="157398" StoreDate="2024-05-29"/>
+    </Book>
     <Book Series="The Amazing Spider-Man" Number="51" Volume="2022" Year="2024">
       <Database IssueId="1058718" VolumeId="142577" StoreDate="2024-06-05"/>
     </Book>
@@ -303,6 +315,9 @@
     </Book>
     <Book Series="The Spectacular Spider-Men" Number="4" Volume="2024" Year="2024">
       <Database IssueId="1060858" VolumeId="157126" StoreDate="2024-06-26"/>
+    </Book>
+    <Book Series="Jackpot &amp; Black Cat" Number="4" Volume="2024" Year="2024">
+      <Database IssueId="1060857" VolumeId="157398" StoreDate="2024-06-26"/>
     </Book>
     <Book Series="The Amazing Spider-Man" Number="53" Volume="2022" Year="2024">
       <Database IssueId="1062558" VolumeId="142577" StoreDate="2024-07-10"/>

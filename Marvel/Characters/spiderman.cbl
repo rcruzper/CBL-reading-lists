@@ -223,6 +223,9 @@
     <Book Series="Uncanny Spider-Man " Number="4" Volume="2023" Year="2023">
       <Database IssueId="1030798" VolumeId="153606" StoreDate="2023-11-22"/>
     </Book>
+    <Book Series="The Amazing Spider-Man: Gang War: First Strike" Number="1" Volume="2024" Year="2023">
+      <Database IssueId="1031689" VolumeId="154930" StoreDate="2023-11-29"/>
+    </Book>
     <Book Series="The Amazing Spider-Man" Number="39" Volume="2022" Year="2023">
       <Database IssueId="1033199" VolumeId="142577" StoreDate="2023-12-06"/>
     </Book>
@@ -618,6 +621,12 @@
     </Book>
     <Book Series="Venom" Number="259" Volume="2025" Year="2026">
       <Database IssueId="1173391" VolumeId="167333" StoreDate="2026-06-24"/>
+    </Book>
+    <Book Series="The Amazing Spider-Man" Number="32" Volume="2025" Year="2026">
+      <Database IssueId="1175662" VolumeId="163325" StoreDate="2026-07-01"/>
+    </Book>
+    <Book Series="Amazing Spider-Man: Spider-Versity" Number="4" Volume="2026" Year="2026">
+      <Database IssueId="1179746" VolumeId="171579" StoreDate="2026-07-15"/>
     </Book>
   </Books>
 </ReadingList>

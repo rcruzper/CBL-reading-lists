@@ -1,0 +1,38 @@
+name: Update CBL
+
+on:
+  schedule:
+    # Daily at 06:07 UTC (off the :00 rush to reduce scheduling delays).
+    - cron: '7 6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Update spiderman.cbl
+        run: |
+          docker run --rm \
+            --user "$(id -u):$(id -g)" \
+            -e COMICVINE_API_KEY="${{ secrets.COMICVINE_API_KEY }}" \
+            -v "$PWD:/data" \
+            ghcr.io/rcruzper/cbl-generator:latest \
+            --file Marvel/Characters/spiderman.cbl update
+
+      - name: Commit and push if changed
+        run: |
+          if git diff --quiet -- Marvel/Characters/spiderman.cbl; then
+            echo "No changes; nothing to commit."
+            exit 0
+          fi
+          git config user.name "Raúl Cruz"
+          git config user.email "rcruzper@gmail.com"
+          git add Marvel/Characters/spiderman.cbl
+          git commit -m "chore: update spiderman.cbl"
+          git push

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList>
   <Name>[Marvel] Spider-Man</Name>
-  <NumIssues>213</NumIssues>
+  <NumIssues>214</NumIssues>
   <Books>
     <Book Series="The Amazing Spider-Man" Number="1" Volume="2022" Year="2022">
       <Database IssueId="919313" VolumeId="142577" StoreDate="2022-04-27"/>
@@ -63,7 +63,7 @@
     <Book Series="The Amazing Spider-Man" Number="13" Volume="2022" Year="2022">
       <Database IssueId="953972" VolumeId="142577" StoreDate="2022-11-09"/>
     </Book>
-    <Book Series="Spider-Man: The Lost Hunt" Number="1" Volume="2022" Year="2022">
+    <Book Series="Spider-Man: The Lost Hunt" Number="1" Volume="2023" Year="2022">
       <Database IssueId="954279" VolumeId="145970" StoreDate="2022-11-09"/>
     </Book>
     <Book Series="Spider-Man" Number="2" Volume="2022" Year="2022">
@@ -78,13 +78,13 @@
     <Book Series="Spider-Man" Number="3" Volume="2022" Year="2022">
       <Database IssueId="958989" VolumeId="145364" StoreDate="2022-12-07"/>
     </Book>
-    <Book Series="Dark Web" Number="1" Volume="2022" Year="2022">
+    <Book Series="Dark Web" Number="1" Volume="2023" Year="2022">
       <Database IssueId="959000" VolumeId="146735" StoreDate="2022-12-07"/>
     </Book>
     <Book Series="The Amazing Spider-Man" Number="15" Volume="2022" Year="2022">
       <Database IssueId="960003" VolumeId="142577" StoreDate="2022-12-14"/>
     </Book>
-    <Book Series="Spider-Man: The Lost Hunt" Number="2" Volume="2022" Year="2022">
+    <Book Series="Spider-Man: The Lost Hunt" Number="2" Volume="2023" Year="2022">
       <Database IssueId="960982" VolumeId="145970" StoreDate="2022-12-21"/>
     </Book>
     <Book Series="The Amazing Spider-Man" Number="16" Volume="2022" Year="2022">
@@ -99,7 +99,7 @@
     <Book Series="The Amazing Spider-Man" Number="17" Volume="2022" Year="2023">
       <Database IssueId="963986" VolumeId="142577" StoreDate="2023-01-11"/>
     </Book>
-    <Book Series="Spider-Man: The Lost Hunt" Number="3" Volume="2022" Year="2023">
+    <Book Series="Spider-Man: The Lost Hunt" Number="3" Volume="2023" Year="2023">
       <Database IssueId="964957" VolumeId="145970" StoreDate="2023-01-18"/>
     </Book>
     <Book Series="Deadly Neighborhood Spider-Man" Number="4" Volume="2022" Year="2023">
@@ -114,7 +114,7 @@
     <Book Series="The Amazing Spider-Man" Number="19" Volume="2022" Year="2023">
       <Database IssueId="969383" VolumeId="142577" StoreDate="2023-02-08"/>
     </Book>
-    <Book Series="Spider-Man: The Lost Hunt" Number="4" Volume="2022" Year="2023">
+    <Book Series="Spider-Man: The Lost Hunt" Number="4" Volume="2023" Year="2023">
       <Database IssueId="971890" VolumeId="145970" StoreDate="2023-02-15"/>
     </Book>
     <Book Series="Spider-Man" Number="5" Volume="2022" Year="2023">
@@ -135,7 +135,7 @@
     <Book Series="The Amazing Spider-Man" Number="22" Volume="2022" Year="2023">
       <Database IssueId="978479" VolumeId="142577" StoreDate="2023-03-22"/>
     </Book>
-    <Book Series="Spider-Man: The Lost Hunt" Number="5" Volume="2022" Year="2023">
+    <Book Series="Spider-Man: The Lost Hunt" Number="5" Volume="2023" Year="2023">
       <Database IssueId="977295" VolumeId="145970" StoreDate="2023-03-22"/>
     </Book>
     <Book Series="The Amazing Spider-Man" Number="23" Volume="2022" Year="2023">
@@ -639,8 +639,11 @@
     <Book Series="The Amazing Spider-Man" Number="34" Volume="2025" Year="2026">
       <Database IssueId="1184252" VolumeId="163325" StoreDate="2026-08-05"/>
     </Book>
-    <Book Series="Mary Jane: Face It, Tiger" Number="1" Volume="0" Year="0">
-      <Database IssueId="1184402" VolumeId="175529"/>
+    <Book Series="Mary Jane: Face It, Tiger" Number="1" Volume="0" Year="2026">
+      <Database IssueId="1184402" VolumeId="175529" StoreDate="2026-08-05"/>
+    </Book>
+    <Book Series="Queen in Black" Number="2" Volume="2026" Year="2026">
+      <Database IssueId="1184556" VolumeId="175259" StoreDate="2026-08-05"/>
     </Book>
   </Books>
 </ReadingList>

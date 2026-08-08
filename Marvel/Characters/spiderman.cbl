@@ -639,7 +639,7 @@
     <Book Series="The Amazing Spider-Man" Number="34" Volume="2025" Year="2026">
       <Database IssueId="1184252" VolumeId="163325" StoreDate="2026-08-05"/>
     </Book>
-    <Book Series="Mary Jane: Face It, Tiger" Number="1" Volume="0" Year="2026">
+    <Book Series="Mary Jane: Face It, Tiger" Number="1" Volume="2026" Year="2026">
       <Database IssueId="1184402" VolumeId="175529" StoreDate="2026-08-05"/>
     </Book>
     <Book Series="Queen in Black" Number="2" Volume="2026" Year="2026">

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList>
   <Name>[Marvel] Spider-Man</Name>
-  <NumIssues>214</NumIssues>
+  <NumIssues>216</NumIssues>
   <Books>
     <Book Series="The Amazing Spider-Man" Number="1" Volume="2022" Year="2022">
       <Database IssueId="919313" VolumeId="142577" StoreDate="2022-04-27"/>
@@ -324,6 +324,9 @@
     <Book Series="Jackpot &amp; Black Cat" Number="4" Volume="2024" Year="2024">
       <Database IssueId="1060857" VolumeId="157398" StoreDate="2024-06-26"/>
     </Book>
+    <Book Series="The Amazing Spider-Man Annual" Number="1" Volume="2024" Year="2024">
+      <Database IssueId="1061866" VolumeId="158693" StoreDate="2024-07-03"/>
+    </Book>
     <Book Series="The Amazing Spider-Man" Number="53" Volume="2022" Year="2024">
       <Database IssueId="1062558" VolumeId="142577" StoreDate="2024-07-10"/>
     </Book>
@@ -551,6 +554,9 @@
     </Book>
     <Book Series="Spider-Man &amp; Wolverine" Number="9" Volume="2025" Year="2026">
       <Database IssueId="1153488" VolumeId="164456" StoreDate="2026-01-21"/>
+    </Book>
+    <Book Series="Amazing Spider-Man Annual" Number="1" Volume="2026" Year="2026">
+      <Database IssueId="1154058" VolumeId="170303" StoreDate="2026-01-28"/>
     </Book>
     <Book Series="The Amazing Spider-Man" Number="21" Volume="2025" Year="2026">
       <Database IssueId="1155347" VolumeId="163325" StoreDate="2026-02-04"/>

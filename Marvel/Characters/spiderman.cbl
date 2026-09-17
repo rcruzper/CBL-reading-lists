@@ -667,7 +667,7 @@
       <Database IssueId="1191061" VolumeId="167333" StoreDate="2026-09-02"/>
     </Book>
     <Book Series="Queen in Black" Number="4" Volume="2026" Year="2026">
-      <Database IssueId="1193085" VolumeId="175259"/>
+      <Database IssueId="1193085" VolumeId="175259" StoreDate="2026-09-16"/>
     </Book>
   </Books>
 </ReadingList>

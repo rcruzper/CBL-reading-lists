@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList>
   <Name>[Marvel] Spider-Man</Name>
-  <NumIssues>222</NumIssues>
+  <NumIssues>225</NumIssues>
   <Books>
     <Book Series="The Amazing Spider-Man" Number="1" Volume="2022" Year="2022">
       <Database IssueId="919313" VolumeId="142577" StoreDate="2022-04-27"/>
@@ -624,6 +624,9 @@
     <Book Series="The Amazing Spider-Man" Number="31" Volume="2025" Year="2026">
       <Database IssueId="1171929" VolumeId="163325" StoreDate="2026-06-17"/>
     </Book>
+    <Book Series="Spider-Man: Long Way Home" Number="1" Volume="2026" Year="2026">
+      <Database IssueId="1171938" VolumeId="173101" StoreDate="2026-06-17"/>
+    </Book>
     <Book Series="Amazing Spider-Man: Spider-Versity" Number="3" Volume="2026" Year="2026">
       <Database IssueId="1173318" VolumeId="171579" StoreDate="2026-06-24"/>
     </Book>
@@ -638,6 +641,9 @@
     </Book>
     <Book Series="The Amazing Spider-Man" Number="33" Volume="2025" Year="2026">
       <Database IssueId="1181746" VolumeId="163325" StoreDate="2026-07-22"/>
+    </Book>
+    <Book Series="Spider-Man: Long Way Home" Number="2" Volume="2026" Year="2026">
+      <Database IssueId="1181799" VolumeId="173101" StoreDate="2026-07-22"/>
     </Book>
     <Book Series="Queen in Black" Number="1" Volume="2026" Year="2026">
       <Database IssueId="1182995" VolumeId="175259" StoreDate="2026-07-29"/>
@@ -668,6 +674,9 @@
     </Book>
     <Book Series="Queen in Black" Number="4" Volume="2026" Year="2026">
       <Database IssueId="1193085" VolumeId="175259" StoreDate="2026-09-16"/>
+    </Book>
+    <Book Series="Spider-Man: Long Way Home" Number="3" Volume="2026" Year="2026">
+      <Database IssueId="1193110" VolumeId="173101" StoreDate="2026-09-16"/>
     </Book>
   </Books>
 </ReadingList>

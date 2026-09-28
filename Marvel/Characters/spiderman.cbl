@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList>
   <Name>[Marvel] Spider-Man</Name>
-  <NumIssues>225</NumIssues>
+  <NumIssues>235</NumIssues>
   <Books>
     <Book Series="The Amazing Spider-Man" Number="1" Volume="2022" Year="2022">
       <Database IssueId="919313" VolumeId="142577" StoreDate="2022-04-27"/>
@@ -390,6 +390,9 @@
     <Book Series="The Amazing Spider-Man" Number="62" Volume="2022" Year="2024">
       <Database IssueId="1079273" VolumeId="142577" StoreDate="2024-11-27"/>
     </Book>
+    <Book Series="All-New Venom" Number="1" Volume="2025" Year="2024">
+      <Database IssueId="1080186" VolumeId="161408" StoreDate="2024-12-04"/>
+    </Book>
     <Book Series="The Amazing Spider-Man" Number="63" Volume="2022" Year="2024">
       <Database IssueId="1081546" VolumeId="142577" StoreDate="2024-12-11"/>
     </Book>
@@ -405,6 +408,9 @@
     <Book Series="The Amazing Spider-Man" Number="65" Volume="2022" Year="2025">
       <Database IssueId="1089473" VolumeId="142577" StoreDate="2025-01-08"/>
     </Book>
+    <Book Series="All-New Venom" Number="2" Volume="2025" Year="2025">
+      <Database IssueId="1089472" VolumeId="161408" StoreDate="2025-01-08"/>
+    </Book>
     <Book Series="The Amazing Spider-Man" Number="65.Deaths" Volume="2022" Year="2025">
       <Database IssueId="1090266" VolumeId="142577" StoreDate="2025-01-15"/>
     </Book>
@@ -416,6 +422,9 @@
     </Book>
     <Book Series="The Amazing Spider-Man" Number="67" Volume="2022" Year="2025">
       <Database IssueId="1095595" VolumeId="142577" StoreDate="2025-02-12"/>
+    </Book>
+    <Book Series="All-New Venom" Number="3" Volume="2025" Year="2025">
+      <Database IssueId="1095594" VolumeId="161408" StoreDate="2025-02-12"/>
     </Book>
     <Book Series="The Amazing Spider-Man" Number="68" Volume="2022" Year="2025">
       <Database IssueId="1096433" VolumeId="142577" StoreDate="2025-02-19"/>
@@ -429,8 +438,14 @@
     <Book Series="The Amazing Spider-Man" Number="69" Volume="2022" Year="2025">
       <Database IssueId="1098339" VolumeId="142577" StoreDate="2025-03-12"/>
     </Book>
+    <Book Series="All-New Venom" Number="4" Volume="2025" Year="2025">
+      <Database IssueId="1098338" VolumeId="161408" StoreDate="2025-03-12"/>
+    </Book>
     <Book Series="The Amazing Spider-Man" Number="70" Volume="2022" Year="2025">
       <Database IssueId="1100279" VolumeId="142577" StoreDate="2025-03-26"/>
+    </Book>
+    <Book Series="All-New Venom" Number="5" Volume="2025" Year="2025">
+      <Database IssueId="1101435" VolumeId="161408" StoreDate="2025-04-02"/>
     </Book>
     <Book Series="The Amazing Spider-Man" Number="1" Volume="2025" Year="2025">
       <Database IssueId="1102459" VolumeId="163325" StoreDate="2025-04-09"/>
@@ -444,6 +459,9 @@
     <Book Series="The Amazing Spider-Man" Number="3" Volume="2025" Year="2025">
       <Database IssueId="1108810" VolumeId="163325" StoreDate="2025-05-07"/>
     </Book>
+    <Book Series="All-New Venom" Number="6" Volume="2025" Year="2025">
+      <Database IssueId="1108808" VolumeId="161408" StoreDate="2025-05-07"/>
+    </Book>
     <Book Series="The Spectacular Spider-Men" Number="15" Volume="2024" Year="2025">
       <Database IssueId="1109658" VolumeId="157126" StoreDate="2025-05-14"/>
     </Book>
@@ -455,6 +473,9 @@
     </Book>
     <Book Series="The Amazing Spider-Man" Number="5" Volume="2025" Year="2025">
       <Database IssueId="1114008" VolumeId="163325" StoreDate="2025-06-04"/>
+    </Book>
+    <Book Series="All-New Venom" Number="7" Volume="2025" Year="2025">
+      <Database IssueId="1114007" VolumeId="161408" StoreDate="2025-06-04"/>
     </Book>
     <Book Series="Giant-Size Amazing Spider-Man" Number="1" Volume="2025" Year="2025">
       <Database IssueId="1115807" VolumeId="165018" StoreDate="2025-06-11"/>
@@ -468,6 +489,9 @@
     <Book Series="The Amazing Spider-Man" Number="7" Volume="2025" Year="2025">
       <Database IssueId="1117431" VolumeId="163325" StoreDate="2025-07-02"/>
     </Book>
+    <Book Series="All-New Venom" Number="8" Volume="2025" Year="2025">
+      <Database IssueId="1117430" VolumeId="161408" StoreDate="2025-07-02"/>
+    </Book>
     <Book Series="The Amazing Spider-Man" Number="8" Volume="2025" Year="2025">
       <Database IssueId="1121716" VolumeId="163325" StoreDate="2025-07-23"/>
     </Book>
@@ -480,6 +504,9 @@
     <Book Series="The Amazing Spider-Man" Number="9" Volume="2025" Year="2025">
       <Database IssueId="1124630" VolumeId="163325" StoreDate="2025-08-06"/>
     </Book>
+    <Book Series="All-New Venom" Number="9" Volume="2025" Year="2025">
+      <Database IssueId="1124629" VolumeId="161408" StoreDate="2025-08-06"/>
+    </Book>
     <Book Series="Spider-Man &amp; Wolverine" Number="4" Volume="2025" Year="2025">
       <Database IssueId="1125796" VolumeId="164456" StoreDate="2025-08-13"/>
     </Book>
@@ -488,6 +515,9 @@
     </Book>
     <Book Series="The Amazing Spider-Man" Number="11" Volume="2025" Year="2025">
       <Database IssueId="1130208" VolumeId="163325" StoreDate="2025-09-03"/>
+    </Book>
+    <Book Series="All-New Venom" Number="10" Volume="2025" Year="2025">
+      <Database IssueId="1130207" VolumeId="161408" StoreDate="2025-09-03"/>
     </Book>
     <Book Series="The Amazing Spider-Man" Number="12" Volume="2025" Year="2025">
       <Database IssueId="1133786" VolumeId="163325" StoreDate="2025-09-17"/>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList>
   <Name>[Marvel] Spider-Man</Name>
-  <NumIssues>238</NumIssues>
+  <NumIssues>239</NumIssues>
   <Books>
     <Book Series="The Amazing Spider-Man" Number="1" Volume="2022" Year="2022">
       <Database IssueId="919313" VolumeId="142577" StoreDate="2022-04-27"/>
@@ -716,6 +716,9 @@
     </Book>
     <Book Series="The Amazing Spider-Man" Number="1000" Volume="2025" Year="2026">
       <Database IssueId="1195342" VolumeId="163325" StoreDate="2026-09-30"/>
+    </Book>
+    <Book Series="The Amazing Spider-Man" Number="1001" Volume="2025" Year="2025">
+      <Database IssueId="1196593" VolumeId="163325"/>
     </Book>
   </Books>
 </ReadingList>

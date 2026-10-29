@@ -720,8 +720,8 @@
     <Book Series="The Amazing Spider-Man" Number="1001" Volume="2025" Year="2026">
       <Database IssueId="1196593" VolumeId="163325" StoreDate="2026-10-14"/>
     </Book>
-    <Book Series="The Amazing Spider-Man" Number="1002" Volume="2025" Year="2025">
-      <Database IssueId="1197516" VolumeId="163325"/>
+    <Book Series="The Amazing Spider-Man" Number="1002" Volume="2025" Year="2026">
+      <Database IssueId="1197516" VolumeId="163325" StoreDate="2026-10-28"/>
     </Book>
   </Books>
 </ReadingList>

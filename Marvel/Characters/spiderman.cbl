@@ -730,7 +730,7 @@
       <Database IssueId="1198754" VolumeId="163325" StoreDate="2026-11-11"/>
     </Book>
     <Book Series="Spider-Man: Long Way Home" Number="4" Volume="2026" Year="2026">
-      <Database IssueId="1198831" VolumeId="173101"/>
+      <Database IssueId="1198831" VolumeId="173101" StoreDate="2026-11-11"/>
     </Book>
   </Books>
 </ReadingList>
